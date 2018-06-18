@@ -1,0 +1,1 @@
+This program first goes and gets data from the omdb api then it makes a cache of this information so anyone else trying to access the information can get it from the cache rather than slowing down the server
